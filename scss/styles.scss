@@ -1,6 +1,14 @@
-@import "./lib/colors";
 
+@import "./lib/colors";
 body
 {
   background-color: $light_color;
 }
+@import "lib/tipografia";
+nav{
+    height: 100px;
+    p{
+        color: red;
+    }
+}
+
