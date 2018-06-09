@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAI;EACA,WAAW,EAHR,sCAAsC;;ACG7C,IACA;EACE,gBAAgB,ECDJ,OAAO;;ADIrB,GAAG;EACC,MAAM,EAAE,KAAK;EACb,gBAAgB,ECVJ,OAAO;EDWnB,KAAK,ECVM,OAAO;EDWlB,KAAC;IACG,KAAK,EAAE,GAAG",
+"sources": ["lib/_tipografia.scss","styles.scss","lib/_colors.scss"],
+"names": [],
+"file": "styles.css"
+}

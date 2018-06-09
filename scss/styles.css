@@ -1,0 +1,14 @@
+body {
+  font-family: "font-family: 'Sunflower', sans-serif"; }
+
+body {
+  background-color: #fcfeff; }
+
+nav {
+  height: 100px;
+  background-color: #ff9100;
+  color: #2600ff; }
+  nav p {
+    color: red; }
+
+/*# sourceMappingURL=styles.css.map */
