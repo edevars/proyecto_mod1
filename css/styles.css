@@ -1,4 +1,135 @@
 body {
-  font-family: "font-family: 'Sunflower', sans-serif";
+  font-family: 'Sunflower', sans-serif;
   background-color: #fcfeff; }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .container {
+  display: flex;
+  justify-content: space-around;
+}
+.container-item{
+  width: 550px;
+  height: 100vh; 
+  padding: 100px;
+  background-color: white;
+}
+.usuario, .info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.p_historial, .p_ubicacion{
+  margin-top: 10px;
+}
+.historial{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;  
+  width: 500px;
+  height: 275px;
+  padding: 10px;
+}
+.cochinita, .taquitos, .maiz{
+  width: 30%;
+  height: 100%;
+  background-size: 100% 100%;
+}
+.cochinita{
+  background-image: url("http://mexicancuisinerecipes.com/wp-content/uploads/2017/11/cochinita-pibil.png")
+}
+.taquitos{
+  background-image: url("https://www.foodiecrush.com/wp-content/uploads/2017/05/Chipotle-Chicken-Taquitos-foodiecrush.com-020.jpg")
+}
+.maiz{
+  background-image: url("https://paleogourmete.files.wordpress.com/2017/09/img_8068-1.jpg")
+}
+.descripcion{
+  bottom: 0;
+  
+}
+.mapa_ubicacion{
+  background-color: black;
+  width: 500px;
+  height: 275px;
+  background-image: url("https://prod.media.larepublica.pe/720x405/larepublica/imagen/2017/08/14/noticia-google-maps-4_0.jpg");
+  background-size: 100% 100%;
+}
+.image_usuario {
+  width: 200px;
+  height: 200px;
+  background-image: url("https://cdn.icon-icons.com/icons2/827/PNG/512/user_icon-icons.com_66546.png");
+  background-size: 100% 100%;
+}
+.image_calificacion{
+  width: 200px;
+  height: 45px;
+  background-image: url("https://3.bp.blogspot.com/-9b1Ihj5E74M/VucVGGGnWwI/AAAAAAAAA0E/QzguHe6_zioltBCR5PYfakNns7IgW0d2A/s1600/5%2Bestrellas.png");
+  background-size: 100% 100%;
+}

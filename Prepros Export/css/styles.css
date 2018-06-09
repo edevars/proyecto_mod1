@@ -1,0 +1,42 @@
+body {
+  background-color: #fcfeff;
+  font-family: "font-family: 'Sunflower', sans-serif"; }
+
+nav {
+  height: 100px;
+  background-color: #ff9100;
+  color: #2600ff; }
+  nav p {
+    color: red; }
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  background-color: blue; }
+
+.container-item {
+  width: 550px;
+  height: 100vh;
+  padding: 100px;
+  background-color: white; }
+
+.usuario {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.image_usuario {
+  width: 200px;
+  height: 200px;
+  background-image: url("https://cdn.icon-icons.com/icons2/827/PNG/512/user_icon-icons.com_66546.png");
+  background-size: 100% 100%; }

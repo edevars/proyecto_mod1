@@ -4,6 +4,7 @@
 body
 {
   background-color: $light_color;
+  font-family: $font;
 }
 
 nav{
@@ -13,4 +14,26 @@ nav{
     p{
         color: red;
     }
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color:blue;
+}
+.container-item{
+  width: 550px;
+  height: 100vh; 
+  padding: 100px;
+  background-color: white;
+}
+.usuario{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image_usuario {
+  width: 200px;
+  height: 200px;
+  background-image: url("https://cdn.icon-icons.com/icons2/827/PNG/512/user_icon-icons.com_66546.png");
+  background-size: 100% 100%;
 }
