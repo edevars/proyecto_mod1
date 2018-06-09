@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IACA;EACE,gBAAgB,ECAJ,OAAO",
+"sources": ["styles.scss","lib/_colors.scss"],
+"names": [],
+"file": "styles.css"
+}
