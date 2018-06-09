@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,IACA;EACE,gBAAgB,ECFJ,OAAO;;ADKrB,GAAG;EACC,MAAM,EAAE,IAAI;EACZ,gBAAgB,ECXJ,OAAO;EDYnB,KAAC;IACG,KAAK,ECTC,OAAO;IDUb,eAAe,EAAE,IAAI;;AAI7B,EAAE;EACA,KAAK,EClBQ,OAAO;EDmBpB,WAAW,EEpBN,uBAAuB;EFqB5B,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,IAAI;;AAGf,KACA;EACE,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,MAAM,EAAE,QAAQ",
+"sources": ["../scss/styles.scss","../scss/lib/_colors.scss","../scss/lib/_tipografia.scss"],
+"names": [],
+"file": "styles.css"
+}

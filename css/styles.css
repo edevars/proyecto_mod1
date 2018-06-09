@@ -1,4 +1,24 @@
 body {
-  font-family: "font-family: 'Sunflower', sans-serif";
   background-color: #fcfeff; }
 
+nav {
+  height: 100x;
+  background-color: #ff9100; }
+  nav a {
+    color: #fcfeff;
+    text-decoration: none; }
+
+h1 {
+  color: #2600ff;
+  font-family: "Sunflower", sans-serif;
+  font-size: 10vh;
+  text-align: center;
+  padding: 15px; }
+
+#hero {
+  display: flex;
+  width: 80vw;
+  height: 85vh;
+  margin: 0px auto; }
+
+/*# sourceMappingURL=styles.css.map */

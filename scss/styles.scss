@@ -1,16 +1,33 @@
 
 @import "./lib/colors";
-@import "lib/tipografia";
+@import "./lib/tipografia";
+
 body
 {
   background-color: $light_color;
 }
 
 nav{
-    height: 100px;
+    height: 100x;
     background-color: $primary_color;
-    color: $second_color;
-    p{
-        color: red;
+    a{
+        color: $light_color;
+        text-decoration: none;
     }
+}
+
+h1{
+  color: $second_color;
+  font-family: $font;
+  font-size: 10vh;
+  text-align: center;
+  padding: 15px;
+}
+
+#hero
+{
+  display: flex;
+  width: 80vw;
+  height: 85vh;
+  margin: 0px auto;
 }
