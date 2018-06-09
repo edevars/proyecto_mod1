@@ -41,4 +41,18 @@ p {
   font-size: 3vh;
   padding: 1vh 4vw; }
 
+.h3_foot {
+  font-family: "Sunflower", sans-serif;
+  color: #fcfeff;
+  text-align: center;
+  font-size: 5vh;
+  padding: 1vh; }
+
+footer {
+  display: flex;
+  background-color: #2600ff;
+  height: 8vh;
+  margin-top: 10vh;
+  justify-content: center; }
+
 /*# sourceMappingURL=styles.css.map */
